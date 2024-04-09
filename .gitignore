@@ -1,0 +1,8 @@
+# Ignore certificate, key, and root CA files
+*.pem.crt
+*.pem.key
+root-CA.pem
+
+# Ignore .env and env files
+.env
+env
